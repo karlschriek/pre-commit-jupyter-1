@@ -82,4 +82,4 @@ def remove_output_object(data, patterns, remove_kernel_metadata):
 
 
 if __name__ == "__main__":
-    main()
+    exit(main())
